@@ -2,9 +2,6 @@
 
 <img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/user-attachments/assets/444317cb-24b8-44e3-9452-374098dab78c">
 
-![CalorieCreatureLogo](https://github.com/user-attachments/assets/444317cb-24b8-44e3-9452-374098dab78c)
-
-
 # 01 OverView
 
 An app that generate a random adventure when the user types in a city and selects a genre.
