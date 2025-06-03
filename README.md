@@ -34,11 +34,14 @@ If you have any questions or concerns about our Privacy Policy, please contact u
     
 # CopyRight
     
-Copyright © 2024 Calorie Creature. All rights reserved.
-This iOS application and its contents are protected by copyright law. Any unauthorized use, reproduction, or distribution of this application or its contents, in whole or in part, is strictly prohibited. This includes, but is not limited to, copying, modifying, distributing, displaying, transmitting, or using any content within the application without the written permission of Calorie Creature.
-The names, logos, and other graphics and content used in this application are trademarks or registered trademarks of Calorie Creature. Unauthorized use or reproduction of these trademarks or any other intellectual property owned by Calorie Creature is strictly prohibited.
-By using this application, you acknowledge that you have read and agree to the terms and conditions of the End User License Agreement (EULA) and Privacy Policy, which are available within the application. Any violation of these terms and conditions may result in legal action.
-    
+Copyright © 2024 Calorie Creatures. All rights reserved.
+
+Calorie Creatures is a trademarked mobile experience available on iOS and watchOS. All content within the app—including characters, graphics, features, animations, and code—is protected by copyright and other intellectual property laws.
+
+Unauthorized use, reproduction, modification, or distribution of the app or any part of its content is strictly prohibited without prior written permission. This includes all names, logos, artwork, and original gameplay features, which are trademarks or registered trademarks owned by Calorie Creatures.
+
+By downloading or using this app, you agree to be bound by our End User License Agreement (EULA) and Privacy Policy, which outline your rights, responsibilities, and the terms of use. Violation of these terms may result in access restrictions and/or legal action.
+
 # Support
     
  Any questions please contact
